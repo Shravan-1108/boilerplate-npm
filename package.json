@@ -12,5 +12,6 @@
 		"url": "https://github.com/Shravan-1108/boilerplate-npm.git"
 	},
 	"author": "Shravan Desale",
-	 "description": "A simple Node.js project for learning package.json basics"
+	 "description": "A simple Node.js project for learning package.json basics",
+	 "keywords": ["nodejs", "npm", "package.json", "freecodecamp"]
 }
