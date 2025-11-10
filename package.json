@@ -14,5 +14,6 @@
 	"author": "Shravan Desale",
 	"description": "A simple Node.js project for learning package.json basics",
 	"license": "MIT",
+	"version": "1.2.0",
 	"keywords": ["nodejs", "npm", "package.json", "freecodecamp"]
 }
