@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "https://github.com/Shravan-1108/boilerplate-npm.git"
 	},
+	"package": "MAJOR.MINOR.PATCH",
 	"author": "Shravan Desale",
 	"description": "A simple Node.js project for learning package.json basics",
 	"license": "MIT",
